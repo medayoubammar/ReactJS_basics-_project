@@ -1,2 +1,2 @@
-# ReactJS_Vidly_project
-project for filtring , sorting some movies using ReactJS
+# ReactJS_project
+Some projects using ReactJS contains all the basics steps and tricks for reactJS developer.
